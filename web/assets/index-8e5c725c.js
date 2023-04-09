@@ -1,0 +1,1 @@
+import{d as e,o as _,e as a,_ as o}from"./index-b35f9c0f.js";const s={class:"home-page"},t=e({__name:"index",setup(n){return(c,d)=>(_(),a("div",s,"关于"))}});const r=o(t,[["__scopeId","data-v-1aea9cff"]]);export{r as default};
